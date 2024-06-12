@@ -1,4 +1,4 @@
 ssh
 ssh.pub
 terraform.lock.hcl
-.terraform/
+terraform
