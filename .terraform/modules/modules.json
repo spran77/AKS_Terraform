@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ServicePrincipal","Source":"./modules/ServicePrincipal","Dir":"Modules/ServicePrincipal"},{"Key":"aks","Source":"./Modules/aks","Dir":"Modules/aks"},{"Key":"keyvault","Source":"./modules/keyvault","Dir":"Modules/KeyVault"}]}

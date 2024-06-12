@@ -15,4 +15,5 @@ variable "service_principal_name" {
 
 variable "keyvault_name" {
   type = string
+
 }
