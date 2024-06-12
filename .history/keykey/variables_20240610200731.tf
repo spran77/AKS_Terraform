@@ -1,0 +1,15 @@
+variable "resource_group_name" {
+  description = "The name of the resource group"
+}
+
+variable "location" {
+  description = "The location/region where the resources will be created"
+}
+
+variable "keyvault_name" {
+  description = "The name of the Key Vault"
+}
+
+variable "service_principal_name" {
+  description = "The name of the Service Principal"
+}
