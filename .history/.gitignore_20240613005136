@@ -1,0 +1,6 @@
+*.ssh
+*.ssh.pub
+*.terraform.lock.hcl
+.terraform/
+*.tfstate
+*.tfstate.backup
